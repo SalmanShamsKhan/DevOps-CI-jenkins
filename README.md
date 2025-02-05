@@ -1,3 +1,6 @@
+![CI Pipeline](https://github.com/SalmanShamsKhan/DevOps-CI-jenkins/blob/main/Continuous%20Integration%20Using%20Jenkins,Nexus,Sonarqube&%20Slack.png)
+
+
 # Continuous Integration (CI) Pipeline using Jenkins, Nexus, SonarQube & Slack Integration
 
 ## 📌 Project Overview
